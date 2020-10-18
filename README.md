@@ -1,2 +1,4 @@
 # encryption-decryption
-This is C program for encryption and decription.
+## This is C program for encryption and decription.
+use encryption.c to encrypt
+
